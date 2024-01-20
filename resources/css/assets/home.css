@@ -1,0 +1,50 @@
+/* styles.css */
+
+/* Estilo para el cuerpo de la página */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Estilo para la barra de navegación */
+.navbar {
+    background-color: #f8f9fa;
+}
+
+/* Estilo para el encabezado */
+header {
+    background-color: #343a40;
+    color: #ffffff;
+    text-align: center;
+    padding: 2rem 0;
+}
+
+/* Estilo para la sección de productos */
+section {
+    background-color: #ffffff;
+    padding: 3rem 0;
+}
+
+/* Estilo para las tarjetas de productos */
+.card {
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+}
+
+/* Estilo para el pie de página */
+/*footer {
+    background-color: #343a40;
+    color: #ffffff;
+    text-align: center;
+    padding: 1rem 0;
+}*/
+
+/* Estilo para los botones */
+.btn-outline-dark {
+    color: #343a40;
+    border-color: #343a40;
+}
+
+.btn-outline-dark:hover {
+    background-color: #343a40;
+    color: #ffffff;
+}
