@@ -38,7 +38,7 @@
                            <!-- <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                 <li><a class="dropdown-item" href="#!">Todos los libros</a></li>
                                 <li><hr class="dropdown-divider" /></li>
-                                <li><a class="dropdown-item" href="#!">Libros populares</a></li>
+                                <li><a class="dropdown-item" href=c"#!">Libros populares</a></li>
                                 <li><a class="dropdown-item" href="libros">Nuevos</a></li>-->
                             </ul>
                         </li>

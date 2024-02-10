@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>CODE-BOOKS</title>
+        <title>KIBROSD E CODIGO</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
@@ -96,7 +96,7 @@
 				          <li>                           <a href="{{ route('register') }}" class="ml-4 font-semibold text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">Registrar</a>
 </li>				          <li>                           <a href="{{ route('register') }}" class="ml-4 font-semibold text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">Registrar</a>
 
-				         <li><a href="otros.html">HOLA COMO ESTAN </a></li>
+				         <li><a href="otros.html">HOLA, COMO ESTAN </a></li>
 				          <!--<li><a href="dogs.html">Revistas</a></li>
 				          <li><a href="volunteer.html">Lectores</a></li>
 				          <li class="menu-has-children"><a href="">Blog</a>
@@ -132,7 +132,7 @@
 						<div class="banner-content col-lg-8 col-md-12">
 							<h1 class="text-uppercase">
 								Leenos <br>
-								Estamos aquí para ti.		
+								Estamos dispuestos a estar para ti cuando lo necesites		
 							</h1>
 							<p class="text-white sub-head">
 								Somos amantes de la lectura, creemos en la importancia de la cultura de la lectura
@@ -140,7 +140,7 @@
 								puedan acceder a los miles de titulos en nuestras diferentes categorias en todo el mundo
 							
 							</p>
-							<a href="#" class="primary-btn header-btn text-uppercase">Encuentra tu inspiracion</a>
+							<a href="#" class="primary-btn header-btn text-uppercase">Encuentra tu mejor inspiracion</a>
 						</div>											
 					</div>
 				</div>
