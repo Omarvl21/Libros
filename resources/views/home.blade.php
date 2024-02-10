@@ -70,12 +70,12 @@
                     <div class="col mb-5">
                         <div class="card h-100">
                             <!-- Product image-->
-                            <img class="card-img-top" src="img/c2.jpg" alt="..." />
+                            <img class="card-img-top" src="https://www.ingebook.com/ib/pimg/Ingebook/00100_0000003568_1519.jpg" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder">"Programación-lineal-2ed</h5>
+                                    <h5 class="fw-bolder">"Programacion estructurada en C</h5>
                                     <!-- Product price-->
                                     $40.00 - $80.00
                                 </div>
@@ -91,12 +91,12 @@
                             <!-- Sale badge-->
                             <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">Sale</div>
                             <!-- Product image-->
-                            <img class="card-img-top" src="img/c9.png" alt="..." />
+                            <img class="card-img-top" src="https://images.cdn1.buscalibre.com/fit-in/360x360/11/ec/11ec3bf8731ecb6e3e9fcebfb4bccf6f.jpg" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder"> Lenguaje C autor Enrique Vicente Bonet Esteban</h5>
+                                    <h5 class="fw-bolder">  Programacion con Python</h5>
                                     <!-- Product reviews-->
                                     <div class="d-flex justify-content-center small text-warning mb-2">
                                         <div class="bi-star-fill"></div>
@@ -121,12 +121,12 @@
                             <!-- Sale badge-->
                             <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">Sale</div>
                             <!-- Product image-->
-                            <img class="card-img-top" src="\img\fundamentosjava.png" alt="..." />
+                            <img class="card-img-top" src="https://www.alfaomegaeditor.com.mx/media/catalog/product/cache/1/image/680x/9df78eab33525d08d6e5fb8d27136e95/b/a/base_1_1.png" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder">"Fundamentos de programación en Java autor Jorge Martinez Ladrón de Guevara</h5>
+                                    <h5 class="fw-bolder">"Java la novela"</h5>
                                     <!-- Product price-->
                                     <span class="text-muted text-decoration-line-through">$50.00</span>
                                     $25.00
@@ -141,12 +141,12 @@
                     <div class="col mb-5">
                         <div class="card h-100">
                             <!-- Product image-->
-                            <img class="card-img-top" src="\img\intropropython.jpg" alt="..." />
+                            <img class="card-img-top" src="https://aprenderbigdata.com/wp-content/uploads/51l5XzLln2BL._SX348_BO1204203200_-mejores-libros-de-programacion.jpg.webp" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder"> Introducción a la Programación con Python autor Andrés Marzal e Isabel Gracia</h5>
+                                    <h5 class="fw-bolder">The Coding Interview</h5>
                                     <!-- Product reviews-->
                                     <div class="d-flex justify-content-center small text-warning mb-2">
                                         <div class="bi-star-fill"></div>
@@ -170,12 +170,12 @@
                             <!-- Sale badge-->
                             <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">Sale</div>
                             <!-- Product image-->
-                            <img class="card-img-top" src="img/manualjs.jpg" alt="..." />
+                            <img class="card-img-top" src="https://simehbucket.s3.amazonaws.com/images/0875a1d64a7e0c08642238c29e3bf993-large.jpg" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder">" Manual de JavaScript autor Miguel Ángel Álvarez y Manu Gutierrez</h5>
+                                    <h5 class="fw-bolder">"Programacion de PLC"</h5>
                                     <!-- Product price-->
                                     <span class="text-muted text-decoration-line-through">$50.00</span>
                                     $25.00
@@ -190,12 +190,12 @@
                     <div class="col mb-5">
                         <div class="card h-100">
                             <!-- Product image-->
-                            <img class="card-img-top" src="img/pphp.jpg" alt="..." />
+                            <img class="card-img-top" src="https://www.elsotano.com/imagenes_grandes/9786073/978607323802.JPG" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder"> Programador PHP autor Eugenia Bahit</h5>
+                                    <h5 class="fw-bolder">Java, cómo Programar</h5>
                                     <!-- Product price-->
                                     $120.00 - $280.00
                                 </div>
@@ -211,12 +211,12 @@
                             <!-- Sale badge-->
                             <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">Sale</div>
                             <!-- Product image-->
-                            <img class="card-img-top" src="img/pyparatodos.jpg" alt="..." />
+                            <img class="card-img-top" src="https://www.redusers.com/noticias/wp-content/uploads/Tapas/lpcu150_tapafrente-515x732.gif" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder">Python para todos autor Charles R. Severance </h5>
+                                    <h5 class="fw-bolder">Curso de Programacion PHP </h5>
                                     <!-- Product reviews-->
                                     <div class="d-flex justify-content-center small text-warning mb-2">
                                         <div class="bi-star-fill"></div>
@@ -239,12 +239,12 @@
                     <div class="col mb-5">
                         <div class="card h-100">
                             <!-- Product image-->
-                            <img class="card-img-top" src="\img\facultadfp.jpg" alt="..." />
+                            <img class="card-img-top" src="https://static.cegal.es/imagenes/marcadas/9788448/978844812682.gif" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder"></h5>
+                                    <h5 class="fw-bolder">Programacion y Diseño en C++</h5>
                                     <!-- Product reviews-->
                                     <div class="d-flex justify-content-center small text-warning mb-2">
                                         <div class="bi-star-fill"></div>
@@ -278,12 +278,12 @@
                     <div class="col mb-5">
                         <div class="card h-100">
                             <!-- Product image-->
-                            <img class="card-img-top" src="\img\fundamentos de programacion algoritmos, estructura de datos y objetos.jpg" alt="..." />
+                            <img class="card-img-top" src="https://rclibros.es/wp-content/uploads/2022/03/9788412286175.png" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder">Fundamentos de programacion algoritmos, estructura de datos y objetos</h5>
+                                    <h5 class="fw-bolder">Python., curso de programacion</h5>
                                     <!-- Product price-->
                                     $40.00 - $80.00
                                 </div>
@@ -299,12 +299,12 @@
                             <!-- Sale badge-->
                             <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">Sale</div>
                             <!-- Product image-->
-                            <img class="card-img-top" src="img/FRONTV1.jpg" alt="..." />
+                            <img class="card-img-top" src="https://anayamultimedia.es/imagenes/libros/grande/9788441542686-curso-de-programacion-videojuegos.jpg" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder"> FRONT HTML & CSS V1</h5>
+                                    <h5 class="fw-bolder">Curso de programacion Videojuegos<</h5>
                                     <!-- Product reviews-->
                                     <div class="d-flex justify-content-center small text-warning mb-2">
                                         <div class="bi-star-fill"></div>
@@ -329,12 +329,12 @@
                             <!-- Sale badge-->
                             <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">Sale</div>
                             <!-- Product image-->
-                            <img class="card-img-top" src="\img\elgranlibro.jpg" alt="..." />
+                            <img class="card-img-top" src="https://http2.mlstatic.com/D_NQ_NP_907477-MEC70515758353_072023-O.webp" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder">El gran libro de html5 css3 y javascript</h5>
+                                    <h5 class="fw-bolder">Estructura de datos en C++</h5>
                                     <!-- Product price-->
                                     <span class="text-muted text-decoration-line-through">$50.00</span>
                                     $25.00
@@ -349,12 +349,12 @@
                     <div class="col mb-5">
                         <div class="card h-100">
                             <!-- Product image-->
-                            <img class="card-img-top" src="\img\CURSO DE DESARROLLOWEB.jpg" alt="..." />
+                            <img class="card-img-top" src="https://media.licdn.com/dms/image/C4D22AQFqGDGPWbGNlA/feedshare-shrink_2048_1536/0/1672659168193?e=2147483647&v=beta&t=eF-IOxx8Y17IeN56TPi7G9G1tLJRHEUHgog8qEbRumk" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder"> Curso de desarrollo web html, css y javascript edicion-2021</h5>
+                                    <h5 class="fw-bolder">Aprende Programacion con C++</h5>
                                     <!-- Product reviews-->
                                     <div class="d-flex justify-content-center small text-warning mb-2">
                                         <div class="bi-star-fill"></div>
@@ -378,12 +378,12 @@
                             <!-- Sale badge-->
                             <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">Sale</div>
                             <!-- Product image-->
-                            <img class="card-img-top" src="\img\introduccion_css.jpg" alt="..." />
+                            <img class="card-img-top" src=https://www.mentesliberadas.com/wp-content/uploads/2019/11/aprendiendo-javascript.jpg" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder">Introducción a CSS</h5>
+                                    <h5 class="fw-bolder">Aprendiendo JavaScript</h5>
                                     <!-- Product price-->
                                     <span class="text-muted text-decoration-line-through">$50.00</span>
                                     $25.00
@@ -398,12 +398,12 @@
                     <div class="col mb-5">
                         <div class="card h-100">
                             <!-- Product image-->
-                            <img class="card-img-top" src="\img\CSS_Avanzado-Eguiluz_Perez_Javier-lg.png" alt="..." />
+                            <img class="card-img-top" src="https://m.media-amazon.com/images/I/61rg7ehG3tL._AC_UF1000,1000_QL80_.jpg" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder"> CSS_Avanzado-Eguiluz_Perez_Javier-l</h5>
+                                    <h5 class="fw-bolder">Todo el mundo deberia saber programar</h5>
                                     <!-- Product price-->
                                     $120.00 - $280.00
                                 </div>
@@ -424,7 +424,7 @@
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder">Python para todos autor Charles R. Severance </h5>
+                                    <h5 class="fw-bolder">Programacion orientada a objetos</h5>
                                     <!-- Product reviews-->
                                     <div class="d-flex justify-content-center small text-warning mb-2">
                                         <div class="bi-star-fill"></div>
@@ -447,12 +447,12 @@
                     <div class="col mb-5">
                         <div class="card h-100">
                             <!-- Product image-->
-                            <img class="card-img-top" src="\img\facultadfp.jpg" alt="..." />
+                            <img class="card-img-top" src="https://m.media-amazon.com/images/I/41wxox+FbmL.jpg" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder"></h5>
+                                    <h5 class="fw-bolder">Lógica de Programacion</h5>
                                     <!-- Product reviews-->
                                     <div class="d-flex justify-content-center small text-warning mb-2">
                                         <div class="bi-star-fill"></div>
