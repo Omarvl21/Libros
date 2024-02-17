@@ -447,7 +447,7 @@
 								<p class="desc">
 									Es un gran libro, me resolvio muchas dudas que tenia haccerca de python, sobre todo con sus frameworks como es laravel y Django
 								</p>
-								<h4>Edgar García</h4>
+								<h4>Edgar Lopez</h4>
 								<p>
 									JavaScript y sus ventajas
 								</p>
@@ -466,7 +466,7 @@
 						<h1 class="text-white">Como podemos ayudartre?</h1>
 						<p class="text-white">
 							Tenemos de todo tipo de libros de programación para ti,
-								con lenguajes como java, python, javascript, c y c++, Dark..
+								con lenguajes como , python, javascript, c y c++, Dark..
 						</p>
 						<div class="buttons d-flex flex-row">
 							<!--<a href="#" class="primary-btn text-uppercase">PDF de los detalles</a>-->
