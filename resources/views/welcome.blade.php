@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>CODIGO DE LIBROS :v</title>
+        <title>CODIGO DE LIBROS </title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
@@ -413,9 +413,8 @@
 					<div class="row d-flex justify-content-center">
 						<div class="menu-content pb-60 col-lg-8">
 							<div class="title text-center">
-								<h1 class="mb-10">Reseñas de personas</h1>
-								<p>Estos son algunos comentarios de las personas que han leído el libro
-									y que quizas te pueda funcionar
+								<h1 class="mb-10">Reseñas </h1>
+								<p>Malo
 								</p>
 							</div>
 						</div>
@@ -425,7 +424,7 @@
 							<div class="single-testimonial item">
 								<img class="mx-auto" src="img/t1.png" alt="">
 								<p class="desc">
-									Es un gran libro, me resolvio muchas dudas que tenia haccerca de python, sobre todo con sus frameworks como es laravel y Django
+									Es un gran libro
 								</p>
 								<h4>Mynu Emily</h4>
 								<p>
@@ -435,7 +434,7 @@
 							<div class="single-testimonial item">
 								<img class="mx-auto" src="img/t2.png" alt="">
 								<p class="desc">
-									Es un gran libro, me resolvio muchas dudas que tenia haccerca de python, sobre todo con sus frameworks como es laravel y Django
+									Es un gran libro
 								</p>
 								<h4>Dyna Castillo</h4>
 								<p>
@@ -445,7 +444,7 @@
 							<div class="single-testimonial item">
 								<img class="mx-auto" src="img/t3.png" alt="">
 								<p class="desc">
-									Es un gran libro, me resolvio muchas dudas que tenia haccerca de python, sobre todo con sus frameworks como es laravel y Django
+									Es un gran libro
 								</p>
 								<h4>Edgar Lopez</h4>
 								<p>
