@@ -435,9 +435,9 @@
 							<div class="single-testimonial item">
 								<img class="mx-auto" src="img/t2.png" alt="">
 								<p class="desc">
-									Es un gran libro, me resolvio muchas dudas que tenia haccerca de python, sobre todo con sus frameworks como es laravel y Django
+									Me agrado este libro me ayudo a conocer nuevos temas
 								</p>
-								<h4>Dyna Castillo</h4>
+								<h4>Dyna Castilsulo</h4>
 								<p>
 									Java para Principiantes
 								</p>
