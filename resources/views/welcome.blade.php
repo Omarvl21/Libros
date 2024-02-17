@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>CODIGO DE LIBROS </title>
+        <title>LIBROS DE CODIGO</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
@@ -135,7 +135,9 @@
 								Estamos dispuestos a estar para ti cuando lo necesites		
 							</h1>
 							<p class="text-white sub-head">
-								
+								Somos amantes de la lectura, creemos en la importancia de la cultura de la lectura
+								por eso hemos creado un sitio escialisado en libros, donde lectores de todo el mundo
+								puedan acceder a los miles de titulos en nuestras diferentes categorias en todo el mundo
 							
 							</p>
 							<a href="#" class="primary-btn header-btn text-uppercase">"SI LO PUEDESIMAGINAR LO PUEDES PROGRAMAR"</a>
