@@ -132,7 +132,7 @@
 						<div class="banner-content col-lg-8 col-md-12">
 							<h1 class="text-uppercase">
 								Leenos <br>
-								Estamos dispuestos a estar para ti cuando lo necesites		
+										
 							</h1>
 							<p class="text-white sub-head">
 								Somos amantes de la lectura, creemos en la importancia de la cultura de la lectura
