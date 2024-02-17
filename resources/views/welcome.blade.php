@@ -135,9 +135,7 @@
 								Estamos dispuestos a estar para ti cuando lo necesites		
 							</h1>
 							<p class="text-white sub-head">
-								Somos amantes de la lectura, creemos en la importancia de la cultura de la lectura
-								por eso hemos creado un sitio escialisado en libros, donde lectores de todo el mundo
-								puedan acceder a los miles de titulos en nuestras diferentes categorias en todo el mundo
+								
 							
 							</p>
 							<a href="#" class="primary-btn header-btn text-uppercase">Encuentra tu mejor inspiracion</a>
