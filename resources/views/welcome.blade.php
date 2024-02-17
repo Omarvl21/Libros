@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>LIBROS DE CODIGO</title>
+        <title>LIBROS DE CODIGO ABIERTO :v</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
@@ -96,7 +96,7 @@
 				          <li>                           <a href="{{ route('register') }}" class="ml-4 font-semibold text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">Registrar</a>
 </li>				          <li>                           <a href="{{ route('register') }}" class="ml-4 font-semibold text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">register</a>
 
-				         <li><a href="otros.html">Prueba 3</a></li>
+				         <li><a href="otros.html">prueba :)</a></li>
 				          <!--<li><a href="dogs.html">Revistas</a></li>
 				          <li><a href="volunteer.html">Lectores</a></li>
 				          <li class="menu-has-children"><a href="">Blog</a>
@@ -135,12 +135,10 @@
 								Estamos dispuestos a estar para ti cuando lo necesites		
 							</h1>
 							<p class="text-white sub-head">
-								Somos amantes de la lectura, creemos en la importancia de la cultura de la lectura
-								por eso hemos creado un sitio escialisado en libros, donde lectores de todo el mundo
-								puedan acceder a los miles de titulos en nuestras diferentes categorias en todo el mundo
+								
 							
 							</p>
-							<a href="#" class="primary-btn header-btn text-uppercase">"SI LO PUEDESIMAGINAR LO PUEDES PROGRAMAR"</a>
+							<a href="#" class="primary-btn header-btn text-uppercase">Encuentra tu mejor inspiracion</a>
 						</div>											
 					</div>
 				</div>
@@ -188,17 +186,17 @@
 					<div class="row">
 						<div class="col-lg-3 col-md-6">
 							<div class="single-cat-list">
-							  <img src="img/c1.jpg" alt="" class="img-fluid">
+							  <img src="https://www.xtremepc.com.mx/cdn/shop/files/51136ca4-14b8-4252-9fee-91a606bdaf65_800x.png?v=1704927373" alt="" class="img-fluid">
 							  <div class="overlay">
 							    <div class="text">Alexander cane</div>
-								<a href="https://books.google.com.mx/books/about/Programaci%C3%B3n_para_Principiantes.html?id=PZPAywEACAAJ&redir_esc=y" class="primary-btn text-uppercase">Obten mas detalles</a>
+								<a href="https://m.media-amazon.com/images/I/A1tYa0EpiyL._AC_UF894,1000_QL80_.jpg" class="primary-btn text-uppercase">Obten mas detalles</a>
 
 							  </div>
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-6">
 							<div class="single-cat-list">
-							  <img src="img/c2.jpg" alt="" class="img-fluid">
+							  <img src="https://www.xtremepc.com.mx/cdn/shop/files/51136ca4-14b8-4252-9fee-91a606bdaf65_800x.png?v=1704927373" alt="" class="img-fluid">
 							  <div class="overlay">
 							    <div class="text">Humberto Guerrero Salas</div>
 								<a href="\img\Programación-lineal-2ed.pdf" class="primary-btn text-uppercase">Obten mas detalles</a>
@@ -276,7 +274,7 @@
 				<div class="container">
 					<div class="row justify-content-between callto-top-wrap pt-40 pb-40">
 						<div class="col-lg-8 callto-top-left">
-							<h1>HOLA!! NOVATO... Selecciona tu libro favorito</h1>
+							<h1>Por favor selecciona tu libro favorito</h1>
 						</div>
 						<div class="col-lg-4 callto-top-right">
 							<a href="#" class="primary-btn">¿Quieres saber más?</a>
@@ -341,7 +339,7 @@
 					<div class="row d-flex justify-content-center">
 						<div class="menu-content pb-60 col-lg-8">
 							<div class="title text-center">
-								<h1 class="mb-10">NOTAS IMPORTANTES</h1>
+								<h1 class="mb-10">Conoce más</h1>
 								<p>Notas importantes.</p>
 							</div>
 						</div>
@@ -426,7 +424,7 @@
 							<div class="single-testimonial item">
 								<img class="mx-auto" src="img/t1.png" alt="">
 								<p class="desc">
-									Es un gran libro
+									Es un gran libro, me resolvio muchas dudas que tenia haccerca de python, sobre todo con sus frameworks como es laravel y Django
 								</p>
 								<h4>Mynu Emily</h4>
 								<p>
@@ -436,7 +434,7 @@
 							<div class="single-testimonial item">
 								<img class="mx-auto" src="img/t2.png" alt="">
 								<p class="desc">
-									Es un gran libro
+									Es un gran libro, me resolvio muchas dudas que tenia haccerca de python, sobre todo con sus frameworks como es laravel y Django
 								</p>
 								<h4>Dyna Castillo</h4>
 								<p>
@@ -446,7 +444,7 @@
 							<div class="single-testimonial item">
 								<img class="mx-auto" src="img/t3.png" alt="">
 								<p class="desc">
-									Es un gran libro
+									Es un gran libro, me resolvio muchas dudas que tenia haccerca de python, sobre todo con sus frameworks como es laravel y Django
 								</p>
 								<h4>Edgar Lopez</h4>
 								<p>
@@ -488,7 +486,7 @@
 							<div class="single-footer-widget">
 								<h6>Acerca de Nosotros</h6>
 								<p>
-									TENEMOS FRIO :v
+									Somos estudiantes :v
 								</p>
 							</div>
 						</div>
