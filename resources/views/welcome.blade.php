@@ -274,7 +274,7 @@
 				<div class="container">
 					<div class="row justify-content-between callto-top-wrap pt-40 pb-40">
 						<div class="col-lg-8 callto-top-left">
-							<h1>Por favor selecciona tu libro favorito</h1>
+							<h1>HOLA!! NOVATO... Selecciona tu libro favorito</h1>
 						</div>
 						<div class="col-lg-4 callto-top-right">
 							<a href="#" class="primary-btn">¿Quieres saber más?</a>
@@ -339,7 +339,7 @@
 					<div class="row d-flex justify-content-center">
 						<div class="menu-content pb-60 col-lg-8">
 							<div class="title text-center">
-								<h1 class="mb-10">Conoce más</h1>
+								<h1 class="mb-10">NOTAS IMPORTANTES</h1>
 								<p>Notas importantes.</p>
 							</div>
 						</div>
