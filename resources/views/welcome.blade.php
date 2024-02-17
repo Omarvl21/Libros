@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>LIBROS DE CODIGO</title>
+        <title>CODIGO DE LIBROS :v</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
@@ -135,9 +135,7 @@
 								Estamos dispuestos a estar para ti cuando lo necesites		
 							</h1>
 							<p class="text-white sub-head">
-								Somos amantes de la lectura, creemos en la importancia de la cultura de la lectura
-								por eso hemos creado un sitio escialisado en libros, donde lectores de todo el mundo
-								puedan acceder a los miles de titulos en nuestras diferentes categorias en todo el mundo
+								
 							
 							</p>
 							<a href="#" class="primary-btn header-btn text-uppercase">"SI LO PUEDESIMAGINAR LO PUEDES PROGRAMAR"</a>
@@ -449,7 +447,7 @@
 								<p class="desc">
 									Es un gran libro, me resolvio muchas dudas que tenia haccerca de python, sobre todo con sus frameworks como es laravel y Django
 								</p>
-								<h4>Edgar García</h4>
+								<h4>Edgar Lopez</h4>
 								<p>
 									JavaScript y sus ventajas
 								</p>
@@ -468,7 +466,7 @@
 						<h1 class="text-white">Como podemos ayudartre?</h1>
 						<p class="text-white">
 							Tenemos de todo tipo de libros de programación para ti,
-								con lenguajes como java, python, javascript, c y c++, Dark..
+								con lenguajes como , python, javascript, c y c++, Dark..
 						</p>
 						<div class="buttons d-flex flex-row">
 							<!--<a href="#" class="primary-btn text-uppercase">PDF de los detalles</a>-->
@@ -489,9 +487,7 @@
 							<div class="single-footer-widget">
 								<h6>Acerca de Nosotros</h6>
 								<p>
-									Somos amantes de la lectura, creemos en la importancia de la cultura de la lectura
-								por eso hemos creado un sitio escialisado en libros, donde lectores de todo el mundo
-								puedan acceder a los miles de titulos en nuestras diferentes categorias en todo el mundo
+									Somos estudiantes :v
 								</p>
 							</div>
 						</div>
