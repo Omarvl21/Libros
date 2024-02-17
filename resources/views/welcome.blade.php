@@ -140,7 +140,7 @@
 								puedan acceder a los miles de titulos en nuestras diferentes categorias en todo el mundo
 							
 							</p>
-							<a href="#" class="primary-btn header-btn text-uppercase">Encuentra tu mejor inspiracion</a>
+							<a href="#" class="primary-btn header-btn text-uppercase">"SI LO PUEDESIMAGINAR LO PUEDES PROGRAMAR"</a>
 						</div>											
 					</div>
 				</div>
