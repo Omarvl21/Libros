@@ -488,7 +488,7 @@
 							<div class="single-footer-widget">
 								<h6>Acerca de Nosotros</h6>
 								<p>
-									Somos estudiantes :v
+									TENEMOS FRIO :v
 								</p>
 							</div>
 						</div>
