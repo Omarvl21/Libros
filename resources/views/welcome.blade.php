@@ -135,7 +135,7 @@
 								Estamos dispuestos a estar para ti cuando lo necesites		
 							</h1>
 							<p class="text-white sub-head">
-								ESTA ES UNA PRUEBA 
+								ESTA ES UNA PRUEBA DOS :)
 							
 							</p>
 							<a href="#" class="primary-btn header-btn text-uppercase">Encuentra tu mejor inspiracion</a>
