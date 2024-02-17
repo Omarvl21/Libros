@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>LIBROS DE CODIGO</title>
+        <title>LIBROS DE PROGRAMACION</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
@@ -135,7 +135,7 @@
 								Estamos dispuestos a estar para ti cuando lo necesites		
 							</h1>
 							<p class="text-white sub-head">
-								
+								ESTA ES UNA PRUEBA 
 							
 							</p>
 							<a href="#" class="primary-btn header-btn text-uppercase">Encuentra tu mejor inspiracion</a>
