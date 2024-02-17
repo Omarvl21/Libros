@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>LIBROS DE CODIGO</title>
+        <title>CODIGO DE LIBROS :v</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
@@ -487,9 +487,7 @@
 							<div class="single-footer-widget">
 								<h6>Acerca de Nosotros</h6>
 								<p>
-									Somos amantes de la lectura, creemos en la importancia de la cultura de la lectura
-								por eso hemos creado un sitio escialisado en libros, donde lectores de todo el mundo
-								puedan acceder a los miles de titulos en nuestras diferentes categorias en todo el mundo
+									Somos estudiantes :v
 								</p>
 							</div>
 						</div>
