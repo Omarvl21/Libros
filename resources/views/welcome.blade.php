@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>LIBROS DE CODIGO</title>
+        <title>	CUEVANA LITTLE</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
@@ -96,7 +96,7 @@
 				          <li>                           <a href="{{ route('register') }}" class="ml-4 font-semibold text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">Registrar</a>
 </li>				          <li>                           <a href="{{ route('register') }}" class="ml-4 font-semibold text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">register</a>
 
-				         <li><a href="otros.html">Prueba 3</a></li>
+				         <li><a href="otros.html">DESCARGAR</a></li>
 				          <!--<li><a href="dogs.html">Revistas</a></li>
 				          <li><a href="volunteer.html">Lectores</a></li>
 				          <li class="menu-has-children"><a href="">Blog</a>
@@ -131,16 +131,15 @@
 					<div class="row fullscreen d-flex align-items-center justify-content-start">
 						<div class="banner-content col-lg-8 col-md-12">
 							<h1 class="text-uppercase">
-								Leenos <br>
-								Estamos dispuestos a estar para ti cuando lo necesites		
+								CUEVANA LITTLE <br>		
 							</h1>
 							<p class="text-white sub-head">
-								Somos amantes de la lectura, creemos en la importancia de la cultura de la lectura
-								por eso hemos creado un sitio escialisado en libros, donde lectores de todo el mundo
-								puedan acceder a los miles de titulos en nuestras diferentes categorias en todo el mundo
+								Lamejor pagina para ver peliculas                                                           
+								- Es gratis                                                                        
+								- Sin suscripciones                                                                          
 							
 							</p>
-							<a href="#" class="primary-btn header-btn text-uppercase">"SI LO PUEDESIMAGINAR LO PUEDES PROGRAMAR"</a>
+							<a href="#" class="primary-btn header-btn text-uppercase">"BY CUEVANA"</a>
 						</div>											
 					</div>
 				</div>
@@ -188,80 +187,80 @@
 					<div class="row">
 						<div class="col-lg-3 col-md-6">
 							<div class="single-cat-list">
-							  <img src="img/c1.jpg" alt="" class="img-fluid">
+							  <img src="https://m.media-amazon.com/images/I/A1JVqNMI7UL._AC_UF894,1000_QL80_.jpg" alt="" class="img-fluid">
 							  <div class="overlay">
-							    <div class="text">Alexander cane</div>
-								<a href="https://books.google.com.mx/books/about/Programaci%C3%B3n_para_Principiantes.html?id=PZPAywEACAAJ&redir_esc=y" class="primary-btn text-uppercase">Obten mas detalles</a>
+							    <div class="text">Interstellar</div>
+								<a href="https://youtu.be/SNq3vl8Ny-E" class="primary-btn text-uppercase">Obten mas detalles</a>
 
 							  </div>
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-6">
 							<div class="single-cat-list">
-							  <img src="img/c2.jpg" alt="" class="img-fluid">
+							  <img src="https://pics.filmaffinity.com/Uncharted-417211360-large.jpg " alt="" class="img-fluid">
 							  <div class="overlay">
-							    <div class="text">Humberto Guerrero Salas</div>
-								<a href="\img\Programación-lineal-2ed.pdf" class="primary-btn text-uppercase">Obten mas detalles</a>
+							    <div class="text">Uncharted</div>
+								<a href="https://youtu.be/hgObTVMbEiU" class="primary-btn text-uppercase">Obten mas detalles</a>
 
 							  </div>
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-6">
 							<div class="single-cat-list">
-							  <img src="img/c9.png" alt="" class="img-fluid">
+							  <img src="https://pics.filmaffinity.com/Ferrari-253622060-large.jpg" alt="" class="img-fluid">
 							  <div class="overlay">
-							    <div class="text">Enrique Vicente Bonet Esteban</div>
-								<a href="\img\02. Lenguaje C autor Enrique Vicente Bonet Esteban.pdf" class="primary-btn text-uppercase">Obten mas detalles</a>
+							    <div class="text">Ferrari</div>
+								<a href="https://youtu.be/LxBvpoL5vAE" class="primary-btn text-uppercase">Obten mas detalles</a>
 
 							  </div>
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-6">
 							<div class="single-cat-list">
-							  <img src="\img\fundamentosjava.png" alt="" class="img-fluid">
+							  <img src="https://img5.allocine.fr/acmedia/medias/nmedia/18/99/11/15/20609639.jpg" alt="" class="img-fluid">
 							  <div class="overlay">
-							    <div class="text">Jorge Mártinez Ladrón Guevara</div>
-								<a href="\img\08. Fundamentos de programación en Java autor Jorge Martinez Ladrón de Guevara.pdf" class="primary-btn text-uppercase">Obten mas detalles</a>
+							    <div class="text">Rush</div>
+								<a href="https://youtu.be/2fKqkyeYF6c" class="primary-btn text-uppercase">Obten mas detalles</a>
 
 							  </div>
 							</div>
 						</div>	
 						<div class="col-lg-3 col-md-6">
 							<div class="single-cat-list">
-							  <img src="\img\intropropython.jpg" alt="" class="img-fluid">
+							  <img src="https://www.sonypictures.com.mx/sites/mexico/files/2024-01/Key-Art_1400x2100_Napoleon_Mx.jpg" alt="" class="img-fluid">
 							  <div class="overlay">
-							    <div class="text">Introducción a la programación con Python</div>
-								<a href="\img\24. Introducción a la Programación con Python autor Andrés Marzal e Isabel Gracia.pdf" class="primary-btn text-uppercase">Obten mas detalles</a>
+							    <div class="text">Napoleon</div>
+								<a href="https://youtu.be/GaIsWJFQshc">Obten mas detalles</a>
 
 							  </div>
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-6">
 							<div class="single-cat-list">
-							  <img src="img/manualjs.jpg" alt="" class="img-fluid">
-							  <div class="overlay">img/manualjs.jpg
-							    <div class="text">Manual de JavaScript</div>
-								<a href="\img\11. Manual de JavaScript autor Miguel Ángel Álvarez y Manu Gutierrez.pdf" class="primary-btn text-uppercase">Obten mas detalles</a>
+							  <img src="https://jardimdasamericas.com.br/uploads/2024/01/capa-filme-wonka-46eb8-large.jpg" alt="" class="img-fluid">
+							  <div class="overlay">
+							    <div class="text">Wonka</div>
+								<a href="https://youtu.be/u9K67iB4Fsw" class="primary-btn text-uppercase">Obten mas detalles</a>
 
 							  </div>
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-6">
 							<div class="single-cat-list">
-							  <img src="img/pphp.jpg" alt="" class="img-fluid">
+							  <img src="https://m.media-amazon.com/images/M/MV5BMzI0NmVkMjEtYmY4MS00ZDMxLTlkZmEtMzU4MDQxYTMzMjU2XkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_FMjpg_UX1000_.jpg" alt="" class="img-fluid">
 							  <div class="overlay">
-							    <div class="text" style="color: black;"> Programador PHP </div>
-								<a href="\img\20. Programador PHP autor Eugenia Bahit.pdf" class="primary-btn text-uppercase">Obten mas detalles</a>
+							    <div class="text">Spiderman</div>
+								<a href="https://youtu.be/kgZyjL0BsTM">Obten mas detalles</a>
 
 							  </div>
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-6">
 							<div class="single-cat-list">
-							  <img src="img/pyparatodos.jpg" alt="" class="img-fluid">
+							  <img src="https://m.media-amazon.com/images/I/615ot6U8mgL._AC_UF894,1000_QL80_.jpg" alt="" class="img-fluid">
 							  <div class="overlay">
-							    <div class="text">James L. Antonkos </div>
-									<a href="\img\23. Python para todos autor Charles R. Severance.pdf" class="primary-btn text-uppercase">Obten mas detalles</a>
+							    <div class="text">Drive</div>
+									<a href="https://youtu.be/oUM5Vt1vPrE" class="primary-btn text-uppercase">Obten mas detalles</a>
 
 								</div>
 							  </div>
@@ -276,10 +275,10 @@
 				<div class="container">
 					<div class="row justify-content-between callto-top-wrap pt-40 pb-40">
 						<div class="col-lg-8 callto-top-left">
-							<h1>Por favor selecciona tu libro favorito</h1>
+							<h1>Selecciona ti pelicula favorita</h1>
 						</div>
 						<div class="col-lg-4 callto-top-right">
-							<a href="#" class="primary-btn">¿Quieres saber más?</a>
+							<a href="#" class="primary-btn">¿Mas peliculas?</a>
 						</div>							
 					</div>
 				</div>	
@@ -296,14 +295,12 @@
 						</div>
 						<div class="col-lg-6 home-about-right no-padding">
 							<h1>
-								Tenemos muchos autores
-								como: Large Network
+								Amplia varidad de peliculas
 							</h1>
-							<h5>Tenemos de todo tipo de libros de programación para ti,
-								con lenguajes como java, python, javascript, c y c++, Dark..
+							<h5>Tenemos de todo tipo de peliculas, de accion, drama, comedia, terror...
 							</h5>
 							<p>
-								Podras comprar todos los libros que desees a un muy buen costo
+								Puedes dercargarlas
 							</p>
 							<a href="#" class="primary-btn text-uppercase">Obten mas detalles</a>
 						</div>
@@ -313,253 +310,15 @@
 			<!-- End home-about Area -->
 			
 
-			<!-- Start video Area
-			<section class="video-area section-gap">
-				<div class="container">
-					<div class="row justify-content-center align-items-center">
-						<div class="col-lg-8">
-							<div class="about-video-right justify-content-center align-items-center d-flex relative">
-								<div class="overlay overlay-bg"></div>
-								<a class="play-btn" href="https://www.youtube.com/watch?v=ARA0AxrnHdM"><img class="img-fluid mx-auto" src="img/play-btn.png" alt=""></a>
-							</div>
-							<div class="description">
-								<h4>Watch this video how they live here</h4>
-								<p>
-									Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.
-								</p>								
-							</div>
-						</div>
-					</div>
-				</div>	
-			</section>
-			 End video Area -->
 			
-
-			<!-- Start process Area -->
-			<section class="process-area section-gap">
-				<div class="container">
-					<div class="row d-flex justify-content-center">
-						<div class="menu-content pb-60 col-lg-8">
-							<div class="title text-center">
-								<h1 class="mb-10">Conoce más</h1>
-								<p>Notas importantes.</p>
-							</div>
-						</div>
-					</div>					
-					<div class="row">
-						<div class="col-lg-3 col-md-6">
-						<img src="https://cdn-icons-png.flaticon.com/512/10900/10900110.png" alt="" class="img-fluid" width="80" height="150">
-							<div class="single-process">
-								<!--<span class="lnr lnr-thumbs-up"></span>-->
-								<a href="">
-									<h4>
-										Selecciona un libro 
-									</h4>
-								</a>
-								<p>
-									Es importante que sepas el autor o el tipo de informacion que buscas
-								</p>
-							</div>
-						</div>
-						<div class="col-lg-3 col-md-6">
-						<img src="https://cdn-icons-png.flaticon.com/512/2422/2422012.png" alt="" class="img-fluid" width="80" height="150">
-							<div class="single-process">
-								<!--<span class="lnr lnr-user"></span>-->
-								<a href="#">
-									<h4>
-										Conoce al autor
-									</h4>
-								</a>
-								<p>
-									Es importante que sepas el autor o el tipo de informacion que buscas
-								</p>
-							</div>
-						</div>
-						<div class="col-lg-3 col-md-6">
-						<img src="https://cdn-icons-png.flaticon.com/512/2436/2436636.png" alt="" class="img-fluid" width="80" height="150">
-							<div class="single-process">
-								<!--<span class="lnr lnr-license"></span>-->
-								<a href="#">
-									<h4>
-										Leélo
-									</h4>
-								</a>
-								<p>
-									Es importante que sepas el autor o el tipo de informacion que buscas
-								</p>
-							</div>
-						</div>
-						<div class="col-lg-3 col-md-6">
-						<img src="https://cdn-icons-png.flaticon.com/512/5606/5606075.png" alt="" class="img-fluid" width="80" height="150">
-							<div class="single-process">
-								<!--<span class="lnr lnr-magic-wand"></span>-->
-								<a href="#">
-									<h4>
-										Adquierelo si fue de tu agrado
-									</h4>
-								</a>
-								<p>
-									Es importante que sepas el autor o el tipo de informacion que buscas
-								</p>
-							</div>
-						</div>																		
-					</div>
-				</div>	
-			</section>
-			<!-- End process Area -->
-			
-
-			<!-- Start testomial Area -->
-			<section class="testomial-area section-gap" id="testimonail">
-				<div class="container">
-					<div class="row d-flex justify-content-center">
-						<div class="menu-content pb-60 col-lg-8">
-							<div class="title text-center">
-								<h1 class="mb-10">Reseñas de personas</h1>
-								<p>Estos son algunos comentarios de las personas que han leído el libro
-									y que quizas te pueda funcionar
-								</p>
-							</div>
-						</div>
-					</div>						
-					<div class="row">
-						<div class="active-testimonial-carusel">
-							<div class="single-testimonial item">
-								<img class="mx-auto" src="img/t1.png" alt="">
-								<p class="desc">
-									Es un gran libro, me resolvio muchas dudas que tenia haccerca de python, sobre todo con sus frameworks como es laravel y Django
-								</p>
-								<h4>Mynu Emily</h4>
-								<p>
-									Guía de Python vol.1
-								</p>
-							</div>
-							<div class="single-testimonial item">
-								<img class="mx-auto" src="img/t2.png" alt="">
-								<p class="desc">
-									Es un gran libro, me resolvio muchas dudas que tenia haccerca de python, sobre todo con sus frameworks como es laravel y Django
-								</p>
-								<h4>Dyna Castillo</h4>
-								<p>
-									Java para Principiantes
-								</p>
-							</div>
-							<div class="single-testimonial item">
-								<img class="mx-auto" src="img/t3.png" alt="">
-								<p class="desc">
-									Es un gran libro, me resolvio muchas dudas que tenia haccerca de python, sobre todo con sus frameworks como es laravel y Django
-								</p>
-								<h4>Edgar García</h4>
-								<p>
-									JavaScript y sus ventajas
-								</p>
-							</div>																					
-						</div>
-					</div>
-				</div>	
-			</section>
-			<!-- End testomial Area -->						
-
-			<!-- Start calltoaction Area -->
-			<section class="calltoaction-area section-gap relative">
-				<div class="container">
-					<div class="overlay overlay-bg"></div>						
-					<div class="row align-items-center justify-content-center">
-						<h1 class="text-white">Como podemos ayudartre?</h1>
-						<p class="text-white">
-							Tenemos de todo tipo de libros de programación para ti,
-								con lenguajes como java, python, javascript, c y c++, Dark..
-						</p>
-						<div class="buttons d-flex flex-row">
-							<!--<a href="#" class="primary-btn text-uppercase">PDF de los detalles</a>-->
-							
-							<a href="{{ route('register') }}" class="primary-btn text-uppercas eml-4 font-semibold text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">Registrate ahora</a>
-
-						</div>
-					</div>
-				</div>	
-			</section>
-			<!-- End calltoaction Area -->
 			
 			<!-- start footer Area -->		
 			<footer class="footer-area">
-				<div class="container">
-					<div class="row pt-120 pb-80">
-						<div class="col-lg-4 col-md-6">
-							<div class="single-footer-widget">
-								<h6>Acerca de Nosotros</h6>
-								<p>
-									Somos amantes de la lectura, creemos en la importancia de la cultura de la lectura
-								por eso hemos creado un sitio escialisado en libros, donde lectores de todo el mundo
-								puedan acceder a los miles de titulos en nuestras diferentes categorias en todo el mundo
-								</p>
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-6">
-							<div class="single-footer-widget">
-								<h6>Links Utiles</h6>
-								<div class="row">
-									<ul class="col footer-nav">
-										<li><a href="#">Inicio</a></li>
-										<li><a href="#">Atención</a></li>
-										<li><a href="#">Acerca de</a></li>
-										<li><a href="#">Casos de estudio</a></li>
-									</ul>
-									<ul class="col footer-nav">
-										<li><a href="#">Precios</a></li>
-										<li><a href="#">Equipo</a></li>
-										<li><a href="#">Blog</a></li>
-									</ul>									
-								</div>
-							</div>
-						</div>						
-						<div class="col-lg-4  col-md-6">
-							<div class="single-footer-widget mail-chimp">
-								<h6 class="mb-20">Contáctanos</h6>
-								<ul class="list-contact">
-									<li class="flex-row d-flex">
-										<div class="icon">
-											<span class="lnr lnr-home"></span>
-										</div>
-										<div class="detail">
-											<h4>Tzompantepec, TecNM</h4>
-											<p>
-												4343 Avenida Principal
-											</p>
-										</div>	
-									</li>
-									<li class="flex-row d-flex">
-										<div class="icon">
-											<span class="lnr lnr-phone-handset"></span>
-										</div>
-										<div class="detail">
-											<h4>(+52) 246 12 34 567</h4>
-											<p>
-												Lun. a Vier. 9am a 6 pm
-											</p>
-										</div>	
-									</li>
-									<li class="flex-row d-flex">
-										<div class="icon">
-											<span class="lnr lnr-envelope"></span>
-										</div>
-										<div class="detail">
-											<h4>code_book@apizaco.tecnm.mx</h4>
-											<p>
-												Mandanos tus dudas en cualquier momento!
-											</p>
-										</div>	
-									</li>																		
-								</ul>
-							</div>
-						</div>						
-					</div>
-				</div>
 				<div class="copyright-text">
 					<div class="container">
 						<div class="row footer-bottom d-flex justify-content-between">
 							<p class="col-lg-8 col-sm-6 footer-text m-0 text-white"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> Todos los derechos reservados | Esta pagina es con fines educativos <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Codebook</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> Todos los derechos reservados | Esta pagina es con fines educativos <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Cuevana</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
 							<div class="col-lg-4 col-sm-6 footer-social">
 								<a href="https://www.facebook.com/"> <iconify-icon icon="logos:facebook"></iconify-icon></a>
