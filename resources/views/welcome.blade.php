@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>LIBROS DE PROGRAMACION</title>
+        <title>LIBROS DE CODIGO ABIERTO :v</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
@@ -135,7 +135,7 @@
 								Estamos dispuestos a estar para ti cuando lo necesites		
 							</h1>
 							<p class="text-white sub-head">
-								ESTA ES UNA PRUEBA DOS :)
+								ESTA ES UNA PRUEBA 
 							
 							</p>
 							<a href="#" class="primary-btn header-btn text-uppercase">Encuentra tu mejor inspiracion</a>
@@ -186,17 +186,17 @@
 					<div class="row">
 						<div class="col-lg-3 col-md-6">
 							<div class="single-cat-list">
-							  <img src="img/c1.jpg" alt="" class="img-fluid">
+							  <img src="https://www.xtremepc.com.mx/cdn/shop/files/51136ca4-14b8-4252-9fee-91a606bdaf65_800x.png?v=1704927373" alt="" class="img-fluid">
 							  <div class="overlay">
 							    <div class="text">Alexander cane</div>
-								<a href="https://books.google.com.mx/books/about/Programaci%C3%B3n_para_Principiantes.html?id=PZPAywEACAAJ&redir_esc=y" class="primary-btn text-uppercase">Obten mas detalles</a>
+								<a href="https://m.media-amazon.com/images/I/A1tYa0EpiyL._AC_UF894,1000_QL80_.jpg" class="primary-btn text-uppercase">Obten mas detalles</a>
 
 							  </div>
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-6">
 							<div class="single-cat-list">
-							  <img src="img/c2.jpg" alt="" class="img-fluid">
+							  <img src="https://www.xtremepc.com.mx/cdn/shop/files/51136ca4-14b8-4252-9fee-91a606bdaf65_800x.png?v=1704927373" alt="" class="img-fluid">
 							  <div class="overlay">
 							    <div class="text">Humberto Guerrero Salas</div>
 								<a href="\img\Programación-lineal-2ed.pdf" class="primary-btn text-uppercase">Obten mas detalles</a>
@@ -274,7 +274,7 @@
 				<div class="container">
 					<div class="row justify-content-between callto-top-wrap pt-40 pb-40">
 						<div class="col-lg-8 callto-top-left">
-							<h1>HOLA!! NOVATO... Selecciona tu libro favorito</h1>
+							<h1>Por favor selecciona tu libro favorito</h1>
 						</div>
 						<div class="col-lg-4 callto-top-right">
 							<a href="#" class="primary-btn">¿Quieres saber más?</a>
@@ -339,7 +339,7 @@
 					<div class="row d-flex justify-content-center">
 						<div class="menu-content pb-60 col-lg-8">
 							<div class="title text-center">
-								<h1 class="mb-10">NOTAS IMPORTANTES</h1>
+								<h1 class="mb-10">Conoce más</h1>
 								<p>Notas importantes.</p>
 							</div>
 						</div>
@@ -413,9 +413,8 @@
 					<div class="row d-flex justify-content-center">
 						<div class="menu-content pb-60 col-lg-8">
 							<div class="title text-center">
-								<h1 class="mb-10">Reseñas de personas</h1>
-								<p>Estos son algunos comentarios de las personas que han leído el libro
-									y que quizas te pueda funcionar
+								<h1 class="mb-10">Reseñas </h1>
+								<p>Malo
 								</p>
 							</div>
 						</div>
@@ -447,7 +446,7 @@
 								<p class="desc">
 									Es un gran libro, me resolvio muchas dudas que tenia haccerca de python, sobre todo con sus frameworks como es laravel y Django
 								</p>
-								<h4>Edgar García</h4>
+								<h4>Edgar Lopez</h4>
 								<p>
 									JavaScript y sus ventajas
 								</p>
@@ -466,7 +465,7 @@
 						<h1 class="text-white">Como podemos ayudartre?</h1>
 						<p class="text-white">
 							Tenemos de todo tipo de libros de programación para ti,
-								con lenguajes como java, python, javascript, c y c++, Dark..
+								con lenguajes como , python, javascript, c y c++, Dark..
 						</p>
 						<div class="buttons d-flex flex-row">
 							<!--<a href="#" class="primary-btn text-uppercase">PDF de los detalles</a>-->
@@ -487,9 +486,7 @@
 							<div class="single-footer-widget">
 								<h6>Acerca de Nosotros</h6>
 								<p>
-									Somos amantes de la lectura, creemos en la importancia de la cultura de la lectura
-								por eso hemos creado un sitio escialisado en libros, donde lectores de todo el mundo
-								puedan acceder a los miles de titulos en nuestras diferentes categorias en todo el mundo
+									Somos estudiantes :v
 								</p>
 							</div>
 						</div>
